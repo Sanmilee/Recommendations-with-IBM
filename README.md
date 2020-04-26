@@ -2,7 +2,7 @@
 Recommendation using the IBM Watson Studio
 
 ```bat
-[Requirements](###equirements)
+Requirements
 Python 3, Numpy, Pandas, Matplotlib
 ```
 
